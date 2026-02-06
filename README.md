@@ -4,7 +4,7 @@
 A professional Excel-based analytics solution designed to monitor and manage energy consumption across various building types and locations. This dashboard transforms raw consumption data into actionable insights for optimizing energy usage, identifying cost-saving opportunities, and supporting data-driven decision-making.
 
 ## Data Sources
-- **Original Data Source**: https://github.com/Nikhil-Sawhney/Power-BI/blob/main/Energy%20Consumption%20Dashboard/
+- **Original Data Source**: [Download original dataset](https://github.com/Nikhil-Sawhney/Power-BI/blob/main/Energy%20Consumption%20Dashboard/Energy%20Consumptions%20Dataset.xlsx)
 - **Processed Excel Dashboard**: [Insert your Excel file download link here]
 
 ## Key Challenges
